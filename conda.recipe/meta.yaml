@@ -26,8 +26,8 @@ requirements:
     - python
     - setuptools
   run:
-    - python
-    - numpy
+    - python>=3.6
+    - numpy>=1.16
     - scipy
     - pillow
     - numba
